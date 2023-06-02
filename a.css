@@ -9,6 +9,19 @@
       font-family: "Montserrat";
       font-size: 20px;
     }
+    .head{
+      padding: 1%;
+      margin-left: 0;
+      background-color: rgba(107, 162, 207, 0.715);
+    }
+    label{
+      margin-right: 10px;
+      
+    }
+    input{
+      margin-right: 250px;
+    }
+    
 
     section {
       min-height: 100vh;
