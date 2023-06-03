@@ -88,4 +88,12 @@
       transform: translate(-50%, 0%);
       padding-top: 0;
     }
+
+    #ft{
+      background-color: rgb(37, 37, 37);
+      
+    }
     
+    #a{
+      color:rgba(107, 162, 207, 0.715);
+    }
