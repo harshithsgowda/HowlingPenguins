@@ -40,4 +40,3 @@ recognition.addEventListener("end", () => {
 });
 
 recognition.start();
-stop()

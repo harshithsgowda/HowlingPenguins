@@ -13,13 +13,18 @@
       padding: 1%;
       margin-left: 0;
       background-color: rgba(107, 162, 207, 0.715);
+      
     }
+    .div hey{
+      margin-left:  100px;
+      padding-right: none;
+     }
     label{
-      margin-right: 10px;
+      margin-left: 10px;
       
     }
     input{
-      margin-right: 250px;
+      margin-right: 120px;
     }
     
 
@@ -67,5 +72,20 @@
 
     .texts p.replay {
       text-align: right;
+    }
+
+    
+    .container1 {
+      position: relative;
+      padding-top: 0;
+      margin-top: 0;
+    }
+    
+    .text {
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: translate(-50%, 0%);
+      padding-top: 0;
     }
     
